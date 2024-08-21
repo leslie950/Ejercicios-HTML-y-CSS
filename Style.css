@@ -1,0 +1,30 @@
+
+h1 {
+    color: purple;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Tipo de letra */
+    font-size: 70px; /* Tamaño de la letra */
+    text-align: center; /* Alineación al centro */
+      }
+
+  h2 {
+    background-image: linear-gradient(to right, #E2BFD9, #280B60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Arial, sans-serif;
+    font-size: 45px;
+    text-align: center; 
+  }
+  body {
+    background-color: #FFDA76; /* Puedes reemplazar #f0f0f0 por cualquier código de color hexadecimal */
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+p,h4,h3 {text-align: center;}  
+
+container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
